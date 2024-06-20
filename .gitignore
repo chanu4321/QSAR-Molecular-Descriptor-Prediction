@@ -1,0 +1,7 @@
+chembl_34_fps/
+chembl_34_fa/
+chembl_34_sdf/
+chembl_34_chemreps/
+
+sampled_molecules_smiles.csv
+.conda
